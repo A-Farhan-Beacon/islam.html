@@ -1,0 +1,25 @@
+h2{
+    color: black;
+    background-color: dodgerblue;
+    border:black solid 6px;
+    border-radius: 7px;
+    padding-left: 10px;
+}
+.A{
+    background-color: green;
+}
+.B{
+    background-color:darkorange;
+}
+.C{
+    background-color: darkred;
+}
+img{
+    height: 280px;
+    width: 300px;
+
+}
+div{
+    display: flex;
+    margin-left: 20px;
+}
